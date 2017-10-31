@@ -11,7 +11,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: #202020;
+  background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -58,7 +58,7 @@ p {
   width: 240px;
   height: 100%;
   min-height: 800px;
-  color: #696969;
+  color: #fff;
 }
 .sidebar-wrapper a {
   color: #fff;
